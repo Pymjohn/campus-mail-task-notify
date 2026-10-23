@@ -58,7 +58,7 @@ from email.mime.text import MIMEText
 from email.utils import formataddr, formatdate
 from pathlib import Path
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_HOME = Path(
     os.environ.get("CAMPUS_MAIL_HOME") or (Path.home() / ".config" / "campus_mail")
