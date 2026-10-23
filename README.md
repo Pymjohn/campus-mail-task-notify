@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-account>/campus-mail-task-notify.git
+git clone https://github.com/Pymjohn/campus-mail-task-notify.git
 cd campus-mail-task-notify
 ./install.sh
 ```
